@@ -1,0 +1,21 @@
+id_restaurante,nome_restaurante,classificacao_parceiro
+REST_1001,Burguer King Centro,Key Account
+REST_1002,McDonalds Shopping,Key Account
+REST_1003,Habibs Marginal,Key Account
+REST_1004,Pizza Hut Paulista,Key Account
+REST_1005,Sushiria do Japa,Key Account
+REST_1006,Pastelaria da Nonna,Key Account
+REST_1007,Marmitaria Sabor Caseiro,Key Account
+REST_1008,Cantina Don Vitto,Key Account
+REST_1009,Subway Aeroporto,Key Account
+REST_1010,Coco Bambu Vila Olimpia,Key Account
+REST_1011,China in Box Niteroi,Long Tail
+REST_1012,Bacio di Latte,Long Tail
+REST_1013,Giraffas Rodoviaria,Long Tail
+REST_1014,Outback Moema,Long Tail
+REST_1015,Madadero Burguer,Long Tail
+REST_1016,Açaí da Esquina,Long Tail
+REST_1017,Padaria Santa Tereza,Long Tail
+REST_1018,Frango Frito Prime,Long Tail
+REST_1019,Temakeria Peak,Long Tail
+REST_1020,Fogão de Chão,Long Tail

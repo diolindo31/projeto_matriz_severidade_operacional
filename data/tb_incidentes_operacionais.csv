@@ -1,0 +1,151 @@
+id_incidente,data_abertura,categoria_erro,id_restaurante,tempo_resolucao_minutos,status
+INC_10001,2026-06-12 16:20:00,Impressão de Comanda,REST_1011,81,Resolvido
+INC_10002,2026-06-20 22:38:00,Logística Bloqueada,REST_1008,37,Resolvido
+INC_10003,2026-06-17 18:52:00,Pagamento VR,REST_1018,0,Aberto
+INC_10004,2026-06-19 11:37:00,Integração API,REST_1011,0,Em Atendimento
+INC_10005,2026-06-11 12:17:00,Logística Bloqueada,REST_1008,0,Em Atendimento
+INC_10006,2026-06-06 15:15:00,GPS Entregador,REST_1013,72,Resolvido
+INC_10007,2026-06-17 20:53:00,Pagamento VR,REST_1015,21,Resolvido
+INC_10008,2026-06-20 15:31:00,Impressão de Comanda,REST_1013,66,Resolvido
+INC_10009,2026-06-19 12:11:00,Pagamento VR,REST_1006,0,Aberto
+INC_10010,2026-06-14 16:56:00,Impressão de Comanda,REST_1011,56,Resolvido
+INC_10011,2026-06-10 14:00:00,Impressão de Comanda,REST_1011,54,Resolvido
+INC_10012,2026-06-12 16:51:00,Logística Bloqueada,REST_1016,0,Em Atendimento
+INC_10013,2026-06-14 15:36:00,Pagamento VR,REST_1015,6,Resolvido
+INC_10014,2026-06-14 21:48:00,Logística Bloqueada,REST_1020,0,Aberto
+INC_10015,2026-06-03 13:33:00,Integração API,REST_1006,12,Resolvido
+INC_10016,2026-06-21 13:15:00,Pagamento VR,REST_1002,13,Resolvido
+INC_10017,2026-06-11 20:02:00,Pagamento VR,REST_1006,13,Resolvido
+INC_10018,2026-06-10 20:35:00,Integração API,REST_1020,25,Resolvido
+INC_10019,2026-06-14 20:55:00,GPS Entregador,REST_1008,21,Resolvido
+INC_10020,2026-06-05 12:34:00,Logística Bloqueada,REST_1002,28,Resolvido
+INC_10021,2026-06-02 15:09:00,Logística Bloqueada,REST_1010,0,Aberto
+INC_10022,2026-06-12 10:04:00,Integração API,REST_1015,15,Resolvido
+INC_10023,2026-06-21 18:00:00,Pagamento VR,REST_1019,0,Em Atendimento
+INC_10024,2026-06-13 12:51:00,GPS Entregador,REST_1010,0,Em Atendimento
+INC_10025,2026-06-16 15:24:00,Pagamento VR,REST_1017,0,Em Atendimento
+INC_10026,2026-06-13 20:32:00,Pagamento VR,REST_1019,22,Resolvido
+INC_10027,2026-06-07 17:02:00,GPS Entregador,REST_1005,0,Em Atendimento
+INC_10028,2026-06-04 10:09:00,Integração API,REST_1008,0,Em Atendimento
+INC_10029,2026-06-06 14:15:00,Impressão de Comanda,REST_1015,58,Resolvido
+INC_10030,2026-06-14 13:59:00,Impressão de Comanda,REST_1006,0,Em Atendimento
+INC_10031,2026-06-15 14:54:00,Pagamento VR,REST_1020,18,Resolvido
+INC_10032,2026-06-17 13:29:00,Logística Bloqueada,REST_1015,67,Resolvido
+INC_10033,2026-06-14 18:46:00,Impressão de Comanda,REST_1019,65,Resolvido
+INC_10034,2026-06-10 12:26:00,Integração API,REST_1012,5,Resolvido
+INC_10035,2026-06-01 21:29:00,GPS Entregador,REST_1005,53,Resolvido
+INC_10036,2026-06-05 10:18:00,Logística Bloqueada,REST_1018,0,Aberto
+INC_10037,2026-06-18 16:54:00,Integração API,REST_1009,20,Resolvido
+INC_10038,2026-06-15 12:41:00,Pagamento VR,REST_1017,9,Resolvido
+INC_10039,2026-06-20 21:25:00,GPS Entregador,REST_1013,29,Resolvido
+INC_10040,2026-06-12 21:26:00,Logística Bloqueada,REST_1001,47,Resolvido
+INC_10041,2026-06-05 21:31:00,Integração API,REST_1017,20,Resolvido
+INC_10042,2026-06-14 12:54:00,Pagamento VR,REST_1004,22,Resolvido
+INC_10043,2026-06-02 15:42:00,Logística Bloqueada,REST_1001,0,Aberto
+INC_10044,2026-06-01 15:44:00,Impressão de Comanda,REST_1009,27,Resolvido
+INC_10045,2026-06-04 16:07:00,GPS Entregador,REST_1010,0,Em Atendimento
+INC_10046,2026-06-03 22:40:00,GPS Entregador,REST_1020,81,Resolvido
+INC_10047,2026-06-21 13:07:00,Pagamento VR,REST_1001,0,Aberto
+INC_10048,2026-06-12 15:12:00,GPS Entregador,REST_1008,0,Em Atendimento
+INC_10049,2026-06-12 13:41:00,Logística Bloqueada,REST_1013,0,Em Atendimento
+INC_10050,2026-06-16 15:17:00,Pagamento VR,REST_1013,6,Resolvido
+INC_10051,2026-06-13 14:49:00,Integração API,REST_1002,17,Resolvido
+INC_10052,2026-06-07 21:03:00,GPS Entregador,REST_1016,23,Resolvido
+INC_10053,2026-06-01 19:03:00,GPS Entregador,REST_1005,50,Resolvido
+INC_10054,2026-06-01 14:26:00,GPS Entregador,REST_1004,23,Resolvido
+INC_10055,2026-06-03 21:37:00,Logística Bloqueada,REST_1003,28,Resolvido
+INC_10056,2026-06-02 14:58:00,Impressão de Comanda,REST_1009,0,Aberto
+INC_10057,2026-06-06 20:02:00,Logística Bloqueada,REST_1017,76,Resolvido
+INC_10058,2026-06-08 12:52:00,Integração API,REST_1006,6,Resolvido
+INC_10059,2026-06-09 18:23:00,GPS Entregador,REST_1009,36,Resolvido
+INC_10060,2026-06-16 20:44:00,Integração API,REST_1001,23,Resolvido
+INC_10061,2026-06-07 22:54:00,Logística Bloqueada,REST_1005,0,Aberto
+INC_10062,2026-06-15 13:19:00,GPS Entregador,REST_1001,0,Em Atendimento
+INC_10063,2026-06-01 19:23:00,Pagamento VR,REST_1001,0,Em Atendimento
+INC_10064,2026-06-21 11:21:00,GPS Entregador,REST_1017,85,Resolvido
+INC_10065,2026-06-21 14:56:00,GPS Entregador,REST_1007,41,Resolvido
+INC_10066,2026-06-08 21:53:00,Logística Bloqueada,REST_1016,48,Resolvido
+INC_10067,2026-06-18 15:49:00,Pagamento VR,REST_1006,0,Aberto
+INC_10068,2026-06-21 13:51:00,Logística Bloqueada,REST_1016,21,Resolvido
+INC_10069,2026-06-06 12:22:00,Logística Bloqueada,REST_1020,43,Resolvido
+INC_10070,2026-06-07 21:45:00,GPS Entregador,REST_1002,35,Resolvido
+INC_10071,2026-06-16 10:20:00,Impressão de Comanda,REST_1015,0,Em Atendimento
+INC_10072,2026-06-01 22:57:00,Impressão de Comanda,REST_1018,0,Em Atendimento
+INC_10073,2026-06-21 10:36:00,GPS Entregador,REST_1010,89,Resolvido
+INC_10074,2026-06-11 12:37:00,Pagamento VR,REST_1001,10,Resolvido
+INC_10075,2026-06-15 18:50:00,Pagamento VR,REST_1011,25,Resolvido
+INC_10076,2026-06-04 19:10:00,Impressão de Comanda,REST_1005,0,Aberto
+INC_10077,2026-06-04 12:59:00,Logística Bloqueada,REST_1007,83,Resolvido
+INC_10078,2026-06-03 12:05:00,Logística Bloqueada,REST_1012,62,Resolvido
+INC_10079,2026-06-06 14:43:00,Impressão de Comanda,REST_1002,0,Aberto
+INC_10080,2026-06-16 12:07:00,GPS Entregador,REST_1018,66,Resolvido
+INC_10081,2026-06-07 22:21:00,Impressão de Comanda,REST_1007,48,Resolvido
+INC_10082,2026-06-20 14:35:00,GPS Entregador,REST_1009,86,Resolvido
+INC_10083,2026-06-17 20:45:00,Integração API,REST_1005,0,Em Atendimento
+INC_10084,2026-06-03 16:17:00,Logística Bloqueada,REST_1018,0,Aberto
+INC_10085,2026-06-03 21:16:00,Integração API,REST_1015,0,Aberto
+INC_10086,2026-06-05 22:12:00,GPS Entregador,REST_1004,38,Resolvido
+INC_10087,2026-06-09 11:27:00,Integração API,REST_1008,24,Resolvido
+INC_10088,2026-06-19 15:09:00,GPS Entregador,REST_1014,88,Resolvido
+INC_10089,2026-06-09 11:10:00,Impressão de Comanda,REST_1002,0,Aberto
+INC_10090,2026-06-21 17:20:00,Logística Bloqueada,REST_1003,45,Resolvido
+INC_10091,2026-06-13 13:27:00,Pagamento VR,REST_1019,11,Resolvido
+INC_10092,2026-06-03 20:01:00,Pagamento VR,REST_1020,0,Aberto
+INC_10093,2026-06-13 10:45:00,Impressão de Comanda,REST_1010,0,Em Atendimento
+INC_10094,2026-06-10 18:11:00,Pagamento VR,REST_1008,0,Aberto
+INC_10095,2026-06-12 10:19:00,Integração API,REST_1006,5,Resolvido
+INC_10096,2026-06-01 12:02:00,Impressão de Comanda,REST_1013,86,Resolvido
+INC_10097,2026-06-19 19:38:00,Impressão de Comanda,REST_1017,24,Resolvido
+INC_10098,2026-06-19 14:10:00,Impressão de Comanda,REST_1015,28,Resolvido
+INC_10099,2026-06-04 17:17:00,Pagamento VR,REST_1004,0,Em Atendimento
+INC_10100,2026-06-17 10:46:00,Impressão de Comanda,REST_1020,61,Resolvido
+INC_10101,2026-06-12 19:32:00,GPS Entregador,REST_1002,0,Em Atendimento
+INC_10102,2026-06-03 11:49:00,Pagamento VR,REST_1017,17,Resolvido
+INC_10103,2026-06-16 19:25:00,Integração API,REST_1017,0,Em Atendimento
+INC_10104,2026-06-19 17:35:00,Pagamento VR,REST_1007,0,Aberto
+INC_10105,2026-06-02 13:19:00,Impressão de Comanda,REST_1020,0,Aberto
+INC_10106,2026-06-18 18:32:00,Pagamento VR,REST_1010,0,Aberto
+INC_10107,2026-06-10 20:52:00,Logística Bloqueada,REST_1009,59,Resolvido
+INC_10108,2026-06-08 16:24:00,Impressão de Comanda,REST_1006,85,Resolvido
+INC_10109,2026-06-13 22:25:00,Integração API,REST_1009,0,Aberto
+INC_10110,2026-06-15 17:11:00,Integração API,REST_1006,18,Resolvido
+INC_10111,2026-06-19 11:48:00,Pagamento VR,REST_1003,0,Aberto
+INC_10112,2026-06-15 13:03:00,GPS Entregador,REST_1019,57,Resolvido
+INC_10113,2026-06-15 10:02:00,Integração API,REST_1009,14,Resolvido
+INC_10114,2026-06-02 11:08:00,Integração API,REST_1013,0,Em Atendimento
+INC_10115,2026-06-15 11:01:00,Logística Bloqueada,REST_1005,0,Em Atendimento
+INC_10116,2026-06-05 14:51:00,Logística Bloqueada,REST_1017,0,Em Atendimento
+INC_10117,2026-06-17 13:31:00,Logística Bloqueada,REST_1016,29,Resolvido
+INC_10118,2026-06-19 10:26:00,Impressão de Comanda,REST_1017,81,Resolvido
+INC_10119,2026-06-11 21:29:00,Impressão de Comanda,REST_1006,0,Aberto
+INC_10120,2026-06-15 20:41:00,Impressão de Comanda,REST_1013,39,Resolvido
+INC_10121,2026-06-21 19:30:00,Impressão de Comanda,REST_1013,0,Aberto
+INC_10122,2026-06-13 20:14:00,Impressão de Comanda,REST_1006,0,Aberto
+INC_10123,2026-06-03 18:35:00,Integração API,REST_1004,12,Resolvido
+INC_10124,2026-06-03 13:00:00,Pagamento VR,REST_1013,0,Aberto
+INC_10125,2026-06-20 21:10:00,Pagamento VR,REST_1015,0,Em Atendimento
+INC_10126,2026-06-14 16:47:00,Pagamento VR,REST_1005,0,Aberto
+INC_10127,2026-06-21 16:34:00,Impressão de Comanda,REST_1011,0,Aberto
+INC_10128,2026-06-17 22:49:00,Logística Bloqueada,REST_1005,45,Resolvido
+INC_10129,2026-06-14 18:14:00,Integração API,REST_1013,0,Em Atendimento
+INC_10130,2026-06-20 11:55:00,GPS Entregador,REST_1016,81,Resolvido
+INC_10131,2026-06-20 21:56:00,Logística Bloqueada,REST_1018,80,Resolvido
+INC_10132,2026-06-07 19:52:00,Logística Bloqueada,REST_1003,86,Resolvido
+INC_10133,2026-06-20 19:35:00,Pagamento VR,REST_1015,19,Resolvido
+INC_10134,2026-06-04 17:26:00,Impressão de Comanda,REST_1020,0,Aberto
+INC_10135,2026-06-10 10:50:00,Integração API,REST_1020,21,Resolvido
+INC_10136,2026-06-18 17:46:00,Integração API,REST_1001,18,Resolvido
+INC_10137,2026-06-12 22:02:00,Logística Bloqueada,REST_1020,21,Resolvido
+INC_10138,2026-06-02 11:58:00,GPS Entregador,REST_1016,0,Aberto
+INC_10139,2026-06-18 14:18:00,Impressão de Comanda,REST_1004,0,Aberto
+INC_10140,2026-06-16 14:13:00,GPS Entregador,REST_1009,0,Em Atendimento
+INC_10141,2026-06-20 21:40:00,Integração API,REST_1006,0,Em Atendimento
+INC_10142,2026-06-04 17:37:00,Integração API,REST_1006,0,Em Atendimento
+INC_10143,2026-06-06 11:58:00,Impressão de Comanda,REST_1014,0,Aberto
+INC_10144,2026-06-01 16:12:00,Pagamento VR,REST_1008,0,Em Atendimento
+INC_10145,2026-06-14 22:26:00,Impressão de Comanda,REST_1004,0,Aberto
+INC_10146,2026-06-19 13:09:00,Pagamento VR,REST_1005,0,Em Atendimento
+INC_10147,2026-06-06 21:15:00,Pagamento VR,REST_1008,0,Aberto
+INC_10148,2026-06-17 15:48:00,Impressão de Comanda,REST_1008,0,Aberto
+INC_10149,2026-06-08 22:58:00,Integração API,REST_1006,0,Aberto
+INC_10150,2026-06-20 10:42:00,Impressão de Comanda,REST_1020,0,Em Atendimento
